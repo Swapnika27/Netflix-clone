@@ -1,1 +1,1 @@
-# Netflix-clone
+# Homepage of Netflix
